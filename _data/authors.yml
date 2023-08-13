@@ -478,3 +478,9 @@ thalheim:
   last_name: Thalheim
   bio: "Björn ist Softwareentwickler und Architekt mit einem großen Interesse an Softwarequalität, insbesondere durch TDD, Clean Code und Architekturthemen."
   avatar_url: /assets/images/avatars/thalheim_bjoern.jpg
+
+earaujo:
+  first_name: Eleazar Alejandro
+  last_name: Araujo
+  bio: "Eleazar arbeitet seit 2016 als Fullstack-Engineer und beschäftigt sich gerne mit JVM Sprachen und Architekturthemen."
+  avatar_url: /assets/images/avatars/thalheim_bjoern.jpg
